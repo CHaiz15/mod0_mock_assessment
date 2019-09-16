@@ -1,0 +1,11 @@
+Object: Lawn chair
+
+Attributes:
+color: "black"
+legs: 5
+outdoor: true
+
+Methods:
+changeColor: color = "purple"
+removeLeg: legs = 4
+testWeatherResistence: outdoor = false

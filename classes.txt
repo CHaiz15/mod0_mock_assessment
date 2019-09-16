@@ -12,5 +12,5 @@ Methods:
 changeColor (changes the color attribute)
 addPillow (add +1 pillows to the pillows array)
 checkOccupancy (if occupied, occupied = true. if open, occupied = false)
-weatherResistent (if yes, outdoor = true. if no, outdoor = false)
-countLegs (adds number of legs on chair to legs attribute)
+testWeatherResistence (if yes, outdoor = true. if no, outdoor = false)
+removeLeg (subtracts 1 from legs attribute)
